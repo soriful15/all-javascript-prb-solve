@@ -34,4 +34,6 @@ sum = num1 + num2;
 
 sum = sum.toFixed(3);
 sum = parseFloat(sum);
-console.log(sum);
+// console.log(sum);
+ const number=10
+ console.log(typeof number)
